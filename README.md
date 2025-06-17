@@ -5,7 +5,7 @@ I like programming and stuff
 Python  
 JS  
 C (kinda)  
-Rust  
+Rust (kinda)  
 Bash
 
 # Languages I want to know/get better at
