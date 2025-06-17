@@ -6,7 +6,8 @@ Python
 JS  
 C (kinda)  
 Rust (kinda)  
-Bash
+Bash  
+Raw Webassembly  
 
 # Languages I want to know/get better at
 C  
