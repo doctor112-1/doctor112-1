@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a high school freshman, linux enthusiast, and love all things related to technology.</p>
+<p align="left">I'm a open-source fan, linux enthusiast, and love all things related to technology.</p>
 
 ###
 
